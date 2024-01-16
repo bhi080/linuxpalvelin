@@ -1,12 +1,10 @@
 # Esimerkkidokkari
 
-Moikka moi.
-
-Heipä hei.
+Yhdellä risuaidalla merkitään Heading 1.
 
 ## Heading 2
 
-Foo bar. Foo bar. Foo bar.
+Kahdella risuaidalla merkitään Heading 2.
 
 Pätkät koodia sisennetään <strong>neljällä välilyönnillä </strong>
 
@@ -15,7 +13,7 @@ Pätkät koodia sisennetään <strong>neljällä välilyönnillä </strong>
 
 ### Heading 3
 
-Ylempänä pienempi otsikko.
+Kolmella risuaidalla merkitään Heading 3.
 
 Linkki lisätään [Tähän näkyvä teksti] ja (tähän varsinainen linkki) Mikäli halutaan kuva näkyviin, laitetaan eteen !. Käytettävät kuvat ladataan git repoon ennen käyttöä.
 
