@@ -15,4 +15,4 @@ Foo bar. Foo bar. Foo bar.
 
 Ylempänä pienempi otsikko.
 
-Linkki lisätään [Tähän näkyvä teksti] ja sulkeiden väliin varsinainen linkki. Mikäli halutaan kuva näkyviin, laitetaan eteen !.
+Linkki lisätään [Tähän näkyvä teksti] ja (tähän varsinainen linkki) Mikäli halutaan kuva näkyviin, laitetaan eteen !.
