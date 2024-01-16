@@ -8,6 +8,8 @@ Heipä hei.
 
 Foo bar. Foo bar. Foo bar.
 
+Pätkät koodia sisennetään <strong>neljällä välilyönnillä </strong>
+
     print("Hello world!")
     print("bar")
 
