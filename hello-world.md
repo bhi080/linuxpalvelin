@@ -13,4 +13,4 @@ Foo bar. Foo bar. Foo bar.
 
 ### Heading 3
 
-Tässä on melkoisen pieni otsikko.
+Ylempänä pienempi otsikko.
