@@ -16,3 +16,5 @@ Foo bar. Foo bar. Foo bar.
 Ylempänä pienempi otsikko.
 
 Linkki lisätään [Tähän näkyvä teksti] ja (tähän varsinainen linkki) Mikäli halutaan kuva näkyviin, laitetaan eteen !.
+
+[Linkki sivuille](https://www.facebook.com/ratsutallihaavisto/)
