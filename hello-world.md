@@ -8,4 +8,11 @@ Heipä hei.
 
 Foo bar. Foo bar. Foo bar.
 
+  print("Hello world!")
+  print("bar")
+
+  Myös näin
+    document´.querySelector("p.funny");
+    let foo = "bar";
+
 ### Heading 3
