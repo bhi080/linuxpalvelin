@@ -10,8 +10,8 @@ Foo bar. Foo bar. Foo bar.
 
 Foo bar. Xyzzy.
 
-  print("Hello world!")
-  print("bar")
+    print("Hello world!")
+    print("bar")
 
   Myös näin
     document.querySelector("p.funny");
