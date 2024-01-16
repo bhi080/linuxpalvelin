@@ -14,3 +14,5 @@ Foo bar. Foo bar. Foo bar.
 ### Heading 3
 
 Ylempänä pienempi otsikko.
+
+Linkki lisätään [Tähän näkyvä teksti] ja sulkeiden väliin varsinainen linkki. Mikäli halutaan kuva näkyviin, laitetaan eteen !.
